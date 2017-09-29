@@ -1,0 +1,16 @@
+{
+  "name": "platform",
+  "version": "1.0.0",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TomiS/yarn-selective-resolution-bug.git"
+  },
+  "dependencies": {
+    "react-virtualized": "9.8.0",
+    "react-virtualized-select": "3.0.1"
+  },
+  "resolutions": {
+    "react-virtualized-select/react-virtualized": "9.8.0"
+  }
+}
